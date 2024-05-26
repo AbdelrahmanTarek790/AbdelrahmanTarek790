@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://abdelrahman-tarek.tk/">Abdelrahman Tarek</a></h1>
-<h3 align="center">A frontend developer and soon it will be fullstack from Egypt</h3>
+<h3 align="center">A fullstack developer from Egypt</h3>
 
-- 🌱 I’m currently learning **MongoDB/Mongoose**
+- 🌱 I’m currently working on  **Eslm**
 
 - 📫 How to reach me **abdelrahman.tarek790@gmail.com**
 - 
