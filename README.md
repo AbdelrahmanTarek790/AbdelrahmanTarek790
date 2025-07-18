@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://abdelrahman-tarek.tk/">Abdelrahman Tarek</a></h1>
 <h3 align="center">A fullstack developer from Egypt</h3>
 <img src="https://i.ibb.co/b5xvr4mp/Github-Banner.png" alt="Github-Banner" border="0" width="auto">
-[Github-Banner.webp](https://postimg.cc/XG99nZPy)
+<a href='https://postimg.cc/XG99nZPy' target='_blank'><img src='https://i.postimg.cc/XG99nZPy/Github-Banner.webp' border='0' alt='Github-Banner'/></a>
 - 🌱 I’m currently working on  **Eslm**
 
 - 📫 How to reach me **abdelrahman.tarek790@gmail.com**
