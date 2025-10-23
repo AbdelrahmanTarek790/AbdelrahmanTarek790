@@ -40,7 +40,7 @@
 
 ## 🧠 Projects
 
-### 🌍 [Tahya Misr Youth Union Site](https://www.tahyamistryu.com/)  
+### 🌍 [Tahya Misr Youth Union Site](https://www.tahyamisryu.com/)  
 **Tahya Misr Youth Union** · *September 2025 – Present*  
 Engineered a dynamic online platform for Tahya Misr Youth Union, elevating community engagement through interactive features and seamless information access.
 
